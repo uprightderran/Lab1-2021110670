@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.io.IOException;
-// the second little modification
+
 public class MyFrame extends JFrame {
     private JTextField textField;  // �ı�����ʾ�ļ�·��
     private JButton viewButton, confirmButton;  // View��ť��Confirm��ť
